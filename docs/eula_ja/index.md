@@ -20,3 +20,11 @@ Illustailは様々なサービスの画像を閲覧することができます�
 * [Twitter Terms of Service](https://twitter.com/tos)
 * [Mastodon Terms of Service](https://mastodon.cloud/terms)
 * [Dropbox Terms of Service](https://www.dropbox.com/privacy#terms)
+
+### 一般条件
+
+本規約は、随時改定される場合があります。改定は溯って適用されることはありません。
+
+### 発効日
+
+2022年9月1日
