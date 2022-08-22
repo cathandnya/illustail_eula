@@ -14,20 +14,9 @@ Illustailは様々なサービスの画像を閲覧することができます�
 
 詳しくは各サービスの利用規約をご覧ください。
 
-* (TINAMI Terms of Service)[https://www.tinami.com/entry/rule/read]
-* (Danbooru Terms of Service)[https://danbooru.donmai.us/static/terms_of_service]
-* (Tumblr Community Guidelines)[https://www.tumblr.com/policy/en/community]
-* (Twitter Terms of Service)[https://twitter.com/tos]
-* (Mastodon Terms of Service)[https://mastodon.cloud/terms]
-* (Dropbox Terms of Service)[https://www.dropbox.com/privacy#terms]
-
-</p>
-<a href="https://www.tinami.com/entry/rule/read">TINAMI Terms of Service</a><br>
-<a href="https://danbooru.donmai.us/static/terms_of_service">Danbooru Terms of Service</a><br>
-<a href="https://www.tumblr.com/policy/en/community">Tumblr Community Guidelines</a><br>
-<a href="https://twitter.com/tos">Twitter Terms of Service</a><br>
-<a href="https://mastodon.cloud/terms">Mastodon Terms of Service</a>
-<a href="https://www.dropbox.com/privacy#terms">Dropbox Terms of Service</a>
-</div>
-</body>
-</html>
+* [TINAMI Terms of Service](https://www.tinami.com/entry/rule/read)
+* [Danbooru Terms of Service](https://danbooru.donmai.us/static/terms_of_service)
+* [Tumblr Community Guidelines](https://www.tumblr.com/policy/en/community)
+* [Twitter Terms of Service](https://twitter.com/tos)
+* [Mastodon Terms of Service](https://mastodon.cloud/terms)
+* [Dropbox Terms of Service](https://www.dropbox.com/privacy#terms)
