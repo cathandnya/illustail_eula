@@ -12,7 +12,7 @@ Illustailは様々なサービスの画像を閲覧することができます�
 
 また、不適当な投稿は管理者の判断で適宜削除されます。
 
-詳しくは各サービスの利用規約をご覧ください。
+詳しくは各サービスの利用規約をご覧ください。一部を以下にリンクします。
 
 * [TINAMI Terms of Service](https://www.tinami.com/entry/rule/read)
 * [Danbooru Terms of Service](https://danbooru.donmai.us/static/terms_of_service)
@@ -20,6 +20,10 @@ Illustailは様々なサービスの画像を閲覧することができます�
 * [Twitter Terms of Service](https://twitter.com/tos)
 * [Mastodon Terms of Service](https://mastodon.cloud/terms)
 * [Dropbox Terms of Service](https://www.dropbox.com/privacy#terms)
+
+### プライバシー
+
+[プライバシーポリシー](https://cathandnya.github.io/privacy_policy/)をご覧ください。
 
 ### 一般条件
 
