@@ -23,7 +23,7 @@ Illustailは様々なサービスの画像を閲覧することができます�
 
 ### プライバシー
 
-[プライバシーポリシー](https://cathandnya.github.io/privacy_policy/)をご覧ください。
+[プライバシーポリシー](https://cathandnya.github.io/illustail_eula/privacy_policy/)をご覧ください。
 
 ### 一般条件
 

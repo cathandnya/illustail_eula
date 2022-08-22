@@ -47,7 +47,7 @@ Illustailクラウドは、状況によりサービスを中止または終了�
 
 ### プライバシー
 
-[プライバシーポリシー](https://cathandnya.github.io/privacy_policy/)をご覧ください。
+[プライバシーポリシー](https://cathandnya.github.io/illustail_eula/privacy_policy/)をご覧ください。
 
 ### 一般条件
 
