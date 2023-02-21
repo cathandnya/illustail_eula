@@ -20,6 +20,7 @@ Illustailは様々なサービスの画像を閲覧することができます�
 * [Twitter Terms of Service](https://twitter.com/tos)
 * [Mastodon Terms of Service](https://mastodon.cloud/terms)
 * [Dropbox Terms of Service](https://www.dropbox.com/privacy#terms)
+* [Misskey.io Terms of Service](https://service.misskey.io/ja/tos)
 
 ### プライバシー
 
