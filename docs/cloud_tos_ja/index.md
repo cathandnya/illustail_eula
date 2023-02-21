@@ -34,6 +34,7 @@ Illustailクラウドで表示されるコンテンツはリンクされてい�
 * [Twitter Terms of Service](https://twitter.com/tos)
 * [Mastodon Terms of Service](https://mastodon.cloud/terms)
 * [Dropbox Terms of Service](https://www.dropbox.com/privacy#terms)
+* [Misskey.io Terms of Service](https://service.misskey.io/ja/tos)
 
 Illustailクラウドは様々なサービスの画像を閲覧することができますが、その中には不適当な表現が含まれている場合があります。Illustailクラウドはそのような不適当な内容の閲覧・投稿を許容するものではありませんので、ご利用する場合はこのような行為は行わないようにしてください。
 
